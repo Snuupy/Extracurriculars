@@ -3,7 +3,7 @@ A list of all the hackathons, computer science related conferences and events I'
 
 ##2016
 - Hack Western 3
-  * Developed an Android application to improve drivers' habits
+  * Developed an Android application to improve drivers' habits in safety and insurance costs
 - BSides Ottawa Information Security Conference
   * Team placed 2nd in the BSides CTF (Capture the Flag)
 - Hack the North: http://devpost.com/software/xe-overlay
